@@ -33,7 +33,6 @@ Research in the field has identified the following as **important risk factors**
 | 15  | Sleep                    |
 | 16  | Time since last ceck up  |
 | 17  | Education                |
-| 18  | Health care conerage     |
 | 19  | Mental Health            |
 
 #### **Important Risk Factors**
